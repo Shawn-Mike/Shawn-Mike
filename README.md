@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Shawn-Mike. A 20 something dork who loves the internet. 
+- 👋 Hi, I’m @Shawn-Mike. Veteran. Dad. Russian Linguist, IR bachelor, and lifelong student. 
 - 👀 I’m interested in learning all new technologies, coding and languages. 
-- 🌱 I’m currently learning python and cloud development. 
-- 💞️ I’m looking to collaborate on intermediate python projects. 
+- 🌱 I’m currently learning python, cloud development, cyber, and c++. 
+- 💞️ I’m looking to collaborate on intermediate python projects and c++ projects for n00bs. 
 - 📫 Reach me via | shawnmjgraham@gmail.com
 
 <!---
